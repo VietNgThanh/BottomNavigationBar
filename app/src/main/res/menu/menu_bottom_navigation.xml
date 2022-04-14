@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_alarm"
+        android:icon="@drawable/ic_baseline_access_alarm_24"
+        android:title="@string/action_alarm" />
+
+    <item
+        android:id="@+id/action_clock"
+        android:icon="@drawable/ic_world"
+        android:title="@string/action_clock" />
+
+    <item
+        android:id="@+id/action_timer"
+        android:icon="@drawable/ic_hourglass"
+        android:title="@string/action_timer" />
+
+    <item
+        android:id="@+id/action_stopwatch"
+        android:icon="@drawable/ic_stopwatch"
+        android:title="@string/action_stopwatch" />
+</menu>
